@@ -31,6 +31,9 @@ public class CompassItem extends Item {
 
                 time = world.getWorldTime();
             }
+            else if(time > world.getWorldTime()) {
+                time = world.getWorldTime();
+            }
         }
 
         return stack;

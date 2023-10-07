@@ -5,84 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b54a003-72b5-46d5-932e-1cd05375e011" name="变更" comment="v1.0.0">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom_mappings/mappings_152_converted_yarn_intermediates.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/install.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fabric-loom-0.7.local.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/paulscode.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/tiny-remapper-0.8.6+local-fat.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/BTWLog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/config/BTW.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/debug.stitched_items.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/debug.stitched_terrain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-3.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-4.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-5.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-6.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/output-client.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/output-server.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM-1/FCWorld.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM1/FCWorld.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/FCWorld.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/data/villages.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat_mcr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat_old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player15.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player171.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player406.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player593.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player703.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player750.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player812.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.-1.0.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.0.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/session.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player15_unsent.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player15_unsent.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player171_unsent.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player171_unsent.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player406_unsent.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player406_unsent.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player593_unsent.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player593_unsent.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player703_unsent.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player703_unsent.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player750_unsent.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player750_unsent.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player812_unsent.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/stats/stats_player812_unsent.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/btw/community/compasspositioning/CompassPositioningAddon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/fabricmc/compasspositioning/CompassItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/compasspositioning/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/btw/community/compasspositioning/CompassPositioningAddon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/btw/community/compasspositioning/CompassPositioningAddon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/fabricmc/compasspositioning/CompassItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/fabricmc/compasspositioning/CompassItem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +216,8 @@
       <workItem from="1696654474985" duration="720000" />
       <workItem from="1696655253897" duration="370000" />
       <workItem from="1696655739454" duration="1034000" />
-      <workItem from="1696656897471" duration="302000" />
+      <workItem from="1696656897471" duration="3075000" />
+      <workItem from="1696663241432" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="Correction layout">
       <created>1696493667790</created>
