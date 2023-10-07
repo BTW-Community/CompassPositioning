@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b54a003-72b5-46d5-932e-1cd05375e011" name="变更" comment="v1.0.0">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom_mappings/mappings_152_converted_yarn_intermediates.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fabric-loom-0.7.local.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/paulscode.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/tiny-remapper-0.8.6+local-fat.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/BTWLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/BTW.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/debug.stitched_items.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/debug.stitched_terrain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2023-10-06-6.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/output-client.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/output-server.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM-1/FCWorld.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM1/FCWorld.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/FCWorld.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/data/villages.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat_mcr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player15.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player171.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player406.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player593.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player703.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player750.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/players/Player812.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/session.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player15_unsent.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player15_unsent.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player171_unsent.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player171_unsent.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player406_unsent.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player406_unsent.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player593_unsent.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player593_unsent.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player703_unsent.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player703_unsent.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player750_unsent.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player750_unsent.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player812_unsent.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/stats/stats_player812_unsent.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/btw/community/compasspositioning/CompassPositioningAddon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/fabricmc/compasspositioning/CompassItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/compasspositioning/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CompassPositioning Mod" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CompassPositioning Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CompassPositioning Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CompassPositioning Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CompassPositioning Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CompassPositioning Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="fabric" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CompassPositioning Mod" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2WCQkk4i7jb67V0ONG4hZZ5MGyR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/BTW/BTW-gradle-fabric-example/src/main/java/btw&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BTW/CompassPositioning&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BTW\BTW-gradle-fabric-example\src\btw\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BTW\BTW-gradle-fabric-example\src\btw\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net.fabricmc.compasspositioning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CompassPositioning [remapJar]">
+    <configuration name="CompassPositioning [remapJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="remapJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CompassPositioning [safeRunClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="safeRunClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.CompassPositioning [remapJar]" />
+      <item itemvalue="Gradle.CompassPositioning [safeRunClient]" />
+      <item itemvalue="应用程序.Minecraft Client" />
+      <item itemvalue="应用程序.Minecraft Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CompassPositioning [remapJar]" />
+        <item itemvalue="Gradle.CompassPositioning [safeRunClient]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9b54a003-72b5-46d5-932e-1cd05375e011" name="变更" comment="" />
+      <created>1696234227461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696234227461</updated>
+      <workItem from="1696234230943" duration="4284000" />
+      <workItem from="1696238795121" duration="621000" />
+      <workItem from="1696254541486" duration="16000" />
+      <workItem from="1696254670113" duration="1506000" />
+      <workItem from="1696266023631" duration="456000" />
+      <workItem from="1696303500794" duration="10000" />
+      <workItem from="1696304957376" duration="2700000" />
+      <workItem from="1696315999380" duration="1788000" />
+      <workItem from="1696347032951" duration="603000" />
+      <workItem from="1696347975176" duration="4440000" />
+      <workItem from="1696392606893" duration="12249000" />
+      <workItem from="1696407734083" duration="1433000" />
+      <workItem from="1696412474870" duration="19247000" />
+      <workItem from="1696477794247" duration="2857000" />
+      <workItem from="1696484110331" duration="2286000" />
+      <workItem from="1696486636136" duration="675000" />
+      <workItem from="1696488346271" duration="379000" />
+      <workItem from="1696493584261" duration="1039000" />
+      <workItem from="1696514955890" duration="9092000" />
+      <workItem from="1696524668515" duration="3466000" />
+      <workItem from="1696563955166" duration="399000" />
+      <workItem from="1696564543645" duration="3616000" />
+      <workItem from="1696570925708" duration="5022000" />
+      <workItem from="1696582022443" duration="7081000" />
+      <workItem from="1696603196643" duration="8185000" />
+      <workItem from="1696648461886" duration="3632000" />
+      <workItem from="1696654474985" duration="720000" />
+      <workItem from="1696655253897" duration="370000" />
+      <workItem from="1696655739454" duration="1034000" />
+      <workItem from="1696656897471" duration="302000" />
+    </task>
+    <task id="LOCAL-00001" summary="Correction layout">
+      <created>1696493667790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696493667790</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <created>1696493929653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696493929653</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Client Repair">
+      <created>1696524869259</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696524869259</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Client Repair">
+      <created>1696525752321</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696525752322</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix Server">
+      <created>1696568443282</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696568443282</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="8a7acf93-c854-4178-9529-19a5727845aa">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/BTW/BTW-gradle-fabric-example/.idea" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1" />
+    <MESSAGE value="Correction layout" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
+    <MESSAGE value="Client Repair" />
+    <MESSAGE value="Fix Server" />
+    <MESSAGE value="v1.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0.0" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,214 @@
+Index: run/server.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>ISO-8859-1
+===================================================================
+diff --git a/run/server.properties b/run/server.properties
+new file mode 100644
+--- /dev/null	(date 1696519534045)
++++ b/run/server.properties	(date 1696519534045)
+@@ -0,0 +1,29 @@
++#Minecraft server properties
++#Thu Oct 05 23:25:34 CST 2023
++generator-settings=
++allow-nether=true
++level-name=world
++enable-query=false
++allow-flight=false
++server-port=25565
++level-type=DEFAULT
++enable-rcon=false
++force-gamemode=false
++level-seed=
++server-ip=
++max-build-height=256
++spawn-npcs=true
++white-list=false
++spawn-animals=true
++hardcore=false
++snooper-enabled=true
++texture-pack=
++online-mode=false
++pvp=true
++difficulty=standard
++gamemode=0
++max-players=20
++generate-structures=true
++view-distance=10
++spawn-protection=16
++motd=A Minecraft Server
+Index: run/banned-players.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/run/banned-players.txt b/run/banned-players.txt
+new file mode 100644
+--- /dev/null	(date 1696519534053)
++++ b/run/banned-players.txt	(date 1696519534053)
+@@ -0,0 +1,3 @@
++# Updated 23-10-5 ����11:25 by Minecraft 1.5.2
++# victim name | ban date | banned by | banned until | reason
++
+Index: run/ops.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/run/ops.txt b/run/ops.txt
+new file mode 100644
+--- /dev/null	(date 1696519534063)
++++ b/run/ops.txt	(date 1696519534063)
+@@ -0,0 +1,1 @@
++
+Index: run/server.log
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/run/server.log b/run/server.log
+new file mode 100644
+--- /dev/null	(date 1696519772465)
++++ b/run/server.log	(date 1696519772465)
+@@ -0,0 +1,124 @@
++2023-10-05 22:41:41 [INFO] Hello Fabric world!
++2023-10-05 22:41:41 [INFO] Starting minecraft server version 1.5.2
++2023-10-05 22:41:41 [INFO] ...Add-On Handler Initializing...
++2023-10-05 22:41:41 [INFO] Classloader: net.fabricmc.loader.launch.knot.KnotClassLoader
++2023-10-05 22:41:41 [INFO] Minecraft jar found: jar:file:/D:/BTW/DynamicLight/build/dev_run/dev.jar!/
++2023-10-05 22:41:42 [INFO] Found Add-on: BTWAddon
++2023-10-05 22:41:42 [INFO] Found Add-on: BTWMod
++2023-10-05 22:41:42 [INFO] Found Add-on: DynamicLightAddon
++2023-10-05 22:41:42 [INFO] Better Than Wolves Community Edition Version 2.1.1 Initializing...
++2023-10-05 22:41:42 [INFO] Better Than Wolves Initialization Complete.
++2023-10-05 22:41:42 [INFO] DynamicLight Version 1.1.0 Initializing...
++2023-10-05 22:41:42 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:41:42 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:41:42 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:41:42 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:41:42 [INFO] ...Add-On Handler Initialization Complete...
++2023-10-05 22:41:42 [INFO] Loading properties
++2023-10-05 22:41:42 [WARNING] server.properties does not exist
++2023-10-05 22:41:42 [INFO] Generating new properties file
++2023-10-05 22:41:42 [INFO] Default game type: SURVIVAL
++2023-10-05 22:41:42 [INFO] Generating keypair
++2023-10-05 22:41:42 [INFO] Starting Minecraft server on *:25565
++2023-10-05 22:41:42 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (ϵͳ�Ҳ���ָ�����ļ���)
++2023-10-05 22:41:42 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (ϵͳ�Ҳ���ָ�����ļ���)
++2023-10-05 22:41:43 [INFO] Preparing level "world"
++2023-10-05 22:41:43 [INFO] Preparing start region for level 0
++2023-10-05 22:41:44 [INFO] Preparing spawn area: 4%
++2023-10-05 22:41:45 [INFO] Preparing spawn area: 18%
++2023-10-05 22:41:46 [INFO] Preparing spawn area: 40%
++2023-10-05 22:41:47 [INFO] Preparing spawn area: 60%
++2023-10-05 22:41:48 [INFO] Preparing spawn area: 82%
++2023-10-05 22:41:49 [INFO] Preparing spawn area: 92%
++2023-10-05 22:41:50 [INFO] Done (7.541s)! For help, type "help" or "?"
++2023-10-05 22:50:04 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:50:05 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:50:05 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:50:05 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:50:05 [INFO] wwwday[/127.0.0.1:21903] logged in with entity id 3952 at (79.5, 71.0, 253.5)
++2023-10-05 22:50:06 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:50:06 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:50:06 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:50:06 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:54:32 [INFO] Hello Fabric world!
++2023-10-05 22:54:32 [INFO] Starting minecraft server version 1.5.2
++2023-10-05 22:54:32 [INFO] ...Add-On Handler Initializing...
++2023-10-05 22:54:32 [INFO] Classloader: net.fabricmc.loader.launch.knot.KnotClassLoader
++2023-10-05 22:54:32 [INFO] Minecraft jar found: jar:file:/D:/BTW/DynamicLight/build/dev_run/dev.jar!/
++2023-10-05 22:54:33 [INFO] Found Add-on: BTWAddon
++2023-10-05 22:54:33 [INFO] Found Add-on: BTWMod
++2023-10-05 22:54:33 [INFO] Found Add-on: DynamicLightAddon
++2023-10-05 22:54:33 [INFO] Better Than Wolves Community Edition Version 2.1.1 Initializing...
++2023-10-05 22:54:33 [INFO] Better Than Wolves Initialization Complete.
++2023-10-05 22:54:33 [INFO] DynamicLight Version 1.1.0 Initializing...
++2023-10-05 22:54:33 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:54:33 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:54:33 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:54:33 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:54:33 [INFO] ...Add-On Handler Initialization Complete...
++2023-10-05 22:54:33 [INFO] Loading properties
++2023-10-05 22:54:33 [INFO] Default game type: SURVIVAL
++2023-10-05 22:54:33 [INFO] Generating keypair
++2023-10-05 22:54:34 [INFO] Starting Minecraft server on *:25565
++2023-10-05 22:54:34 [INFO] Preparing level "world"
++2023-10-05 22:54:34 [INFO] Preparing start region for level 0
++2023-10-05 22:54:35 [INFO] Preparing spawn area: 61%
++2023-10-05 22:54:36 [INFO] Done (1.602s)! For help, type "help" or "?"
++2023-10-05 22:55:21 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:55:21 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:55:21 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:55:21 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:55:21 [INFO] wwwday[/127.0.0.1:22104] logged in with entity id 1074 at (82.07000475265666, 71.0, 259.41189503977097)
++2023-10-05 22:55:22 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:55:22 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:55:22 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 22:55:22 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 22:55:25 [INFO] wwwday lost connection: disconnect.genericReason
++2023-10-05 23:00:45 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:00:45 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:00:45 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:00:45 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:00:45 [INFO] wwwday[/127.0.0.1:22304] logged in with entity id 2898 at (82.07000475265666, 71.0, 259.41189503977097)
++2023-10-05 23:00:48 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:00:48 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:00:48 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:00:48 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:00:52 [INFO] wwwday lost connection: disconnect.genericReason
++2023-10-05 23:25:32 [INFO] Hello Fabric world!
++2023-10-05 23:25:32 [INFO] Starting minecraft server version 1.5.2
++2023-10-05 23:25:32 [INFO] ...Add-On Handler Initializing...
++2023-10-05 23:25:32 [INFO] Classloader: net.fabricmc.loader.launch.knot.KnotClassLoader
++2023-10-05 23:25:32 [INFO] Minecraft jar found: jar:file:/D:/BTW/DynamicLight/build/dev_run/dev.jar!/
++2023-10-05 23:25:32 [INFO] Found Add-on: BTWAddon
++2023-10-05 23:25:33 [INFO] Found Add-on: BTWMod
++2023-10-05 23:25:33 [INFO] Found Add-on: DynamicLightAddon
++2023-10-05 23:25:33 [INFO] Better Than Wolves Community Edition Version 2.1.1 Initializing...
++2023-10-05 23:25:33 [INFO] Better Than Wolves Initialization Complete.
++2023-10-05 23:25:33 [INFO] DynamicLight Version 1.1.0 Initializing...
++2023-10-05 23:25:33 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:25:33 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:25:33 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:25:33 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:25:33 [INFO] ...Add-On Handler Initialization Complete...
++2023-10-05 23:25:33 [INFO] Loading properties
++2023-10-05 23:25:33 [INFO] Default game type: SURVIVAL
++2023-10-05 23:25:33 [INFO] Generating keypair
++2023-10-05 23:25:34 [INFO] Starting Minecraft server on *:25565
++2023-10-05 23:25:34 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
++2023-10-05 23:25:34 [WARNING] The server will make no attempt to authenticate usernames. Beware.
++2023-10-05 23:25:34 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
++2023-10-05 23:25:34 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
++2023-10-05 23:25:34 [INFO] Preparing level "world"
++2023-10-05 23:25:34 [INFO] Preparing start region for level 0
++2023-10-05 23:25:35 [INFO] Preparing spawn area: 76%
++2023-10-05 23:25:35 [INFO] Done (1.392s)! For help, type "help" or "?"
++2023-10-05 23:29:24 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:29:24 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:29:24 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:29:24 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:29:24 [INFO] wwwday[/127.0.0.1:25515] logged in with entity id 2915 at (82.07000475265666, 71.0, 259.41189503977097)
++2023-10-05 23:29:28 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:29:28 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:29:28 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Ex...
++2023-10-05 23:29:28 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
++2023-10-05 23:29:32 [INFO] wwwday lost connection: disconnect.genericReason
+Index: run/banned-ips.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/run/banned-ips.txt b/run/banned-ips.txt
+new file mode 100644
+--- /dev/null	(date 1696519534057)
++++ b/run/banned-ips.txt	(date 1696519534057)
+@@ -0,0 +1,3 @@
++# Updated 23-10-5 ����11:25 by Minecraft 1.5.2
++# victim name | ban date | banned by | banned until | reason
++
+diff --git a/run/white-list.txt b/run/white-list.txt
+new file mode 100644
+diff --git a/run/server.log.lck b/run/server.log.lck
+new file mode 100644

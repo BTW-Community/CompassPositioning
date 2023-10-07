@@ -1,0 +1,54 @@
+<changelist name="在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]" date="1696524900549" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/shelved.patch" />
+  <option name="DESCRIPTION" value="在进行更新之前于 2023/10/6 0:54 取消提交了变更 [变更]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/data/villages.dat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/villages.dat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/players/wwwday.dat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/wwwday.dat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/DIM1/FCWorld.dat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/FCWorld.dat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/level.dat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/level.dat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/level.dat_old" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/level.dat_old" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/region/r.-1.0.mca" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/r.-1.0.mca" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/session.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/session.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/region/r.0.0.mca" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/r.0.0.mca" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/FCWorld.dat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/FCWorld1.dat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/world/DIM-1/FCWorld.dat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_10_6_0_54_取消提交了变更_[变更]/FCWorld2.dat" />
+  </binary>
+</changelist>
