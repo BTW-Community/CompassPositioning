@@ -24,8 +24,8 @@ public class CompassItem extends Item {
 
                 performUseEffects(player);
 
-                player.sendChatToPlayer(player.getEntityName() + ": " + (int) player.posX +
-                        ", " + (int) player.posY + ", " + (int) player.posZ);
+                player.sendChatToPlayer(player.getEntityName() + ": " + MathHelper.floor_double(player.posX) +
+                        ", " + MathHelper.floor_double(player.posY) + ", " + MathHelper.floor_double(player.posZ));
 
                 stack.damageItem(1, player);
 
