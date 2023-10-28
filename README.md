@@ -13,3 +13,5 @@ This repository is developed based on [BTW-gradle-fabric-example](https://github
 
 
 本项目基于BTW-gradle-fabric-example项目开发
+
+![show](https://github.com/BTW-Community/CompassPositioning/blob/main/image/show.jpg?raw=true)
